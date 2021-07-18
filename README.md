@@ -14,7 +14,7 @@
 ## Connect with me! 
 <!-- Twitter Icon -->
 <p align="left">
-<a href="https://twitter.com/MuddMitchell"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40"> </a><a href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40"></a></p>
+<a href="https://twitter.com/MuddMitchell"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40"> </a><a href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40"></a><a href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/"><img src="https://cdn.dribbble.com/users/5584261/avatars/normal/82b4cb25c1aa5b8f7f131e03fb1b7416.png?1593789111" height="40" width="40"></a></p>
 
 <!--
 **mitchelldirt/mitchelldirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
