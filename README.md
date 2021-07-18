@@ -9,7 +9,7 @@
 - Emoji How to reach me:
 
 ## Tools that I've learned
-<p align="left"> 
+<p display="flex" align="left"> 
   <!-- CSS Icon -->
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/> </a> 
   
