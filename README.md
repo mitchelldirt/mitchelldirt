@@ -17,7 +17,7 @@
 <p align="left"><!-- CSS Icon --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/></a><!-- HTML Icon --><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a><!-- JS Icon --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a><!-- Typescript Icon --><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"> </a><!-- Python Icon --><a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python logo" width="40" height="40"/></a></p>
   
 <a href="https://app.daily.dev/mitchelldirt">
-         <img align="right" src="https://api.daily.dev/devcards/1e60d1bc333748929dd34207792f9911.png?r=0fx" width="400" alt="Mitchell Mudd's Dev Card"
+         <img align="right" src="https://github.com/mitchelldirt/mitchelldirt/blob/main/devcard.svg" width="400" alt="Mitchell Mudd's Dev Card"
                                                                                                                              />
                                                                                                                              </a>
 
