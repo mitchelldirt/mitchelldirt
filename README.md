@@ -14,7 +14,31 @@
 
 ## Tools that I've learned
 <div align="left">
-<p align="left"><!-- CSS Icon --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/></a><!-- HTML Icon --><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a><!-- JS Icon --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a><!-- Typescript Icon --><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"> </a><!-- Python Icon --><a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python logo" width="40" height="40"/></a></p>
+<p align="left">
+  
+  <!-- CSS Icon --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/></a>
+  
+  <!-- HTML Icon --><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a>
+  
+  <!-- JS Icon --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a>
+  
+  <!-- Typescript Icon --><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"> </a>
+  
+  <!-- Python Icon --><a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python logo" width="40" height="40"/></a>
+  
+  <!-- Webpack Icon --><a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="Webpack logo" width="40" height="40"/></a>
+  
+  <!-- Git Icon --><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="40" height="40"/></a>
+  
+  <!-- Jira Icon --><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira logo" width="40" height="40"/></a>
+  
+  <!-- Vite Icon --><a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Vite logo" width="40" height="40"/></a>
+  
+  <!-- NetSuite Icon --><a href="https://www.netsuite.com/portal/home.shtml" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffindaccountingsoftware.com%2FApp_Resources%2FSite%2Fimages%2Flogos%2F208%3Fw%3D220%26h%3D220&f=1&nofb=1" alt="NetSuite logo" width="40" height="40"/></a>
+  
+  <!-- Liquid Icon --><a href="https://shopify.github.io/liquid/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-mp-images.azureedge.net%2F9dda7041-2870-4a96-bf1e-dd8342e86e7c%2Fzy%2Fd24ce982-a442-48d6-99ca-6cc19b7dba8e%2Fhimmlqlq%2Fliquid-markup.png&f=1&nofb=1" alt="Shopify liquid logo" width="40" height="40"/></a></p>
+  
+   <!-- Tailwindcss Icon --><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss logo" width="40" height="40"/></a></p>
   
 <a href="https://app.daily.dev/mitchelldirt">
          <img align="right" src="https://github.com/mitchelldirt/mitchelldirt/blob/main/devcard.svg" width="400" alt="Mitchell Mudd's Dev Card"
