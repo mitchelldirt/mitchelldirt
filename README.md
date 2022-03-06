@@ -6,7 +6,7 @@
 
 - **💼 What I'm currently working on:** Right now I'm working on securing my first job in tech! Since the company that I currently work at has web devleopment and software development ideally I would move into one of those roles so I can stay where I am. 
 
-- **💡 What I'm currently learning:** I'm learning javascript currently and trying to start the transition into using typescript. Hoping to start learning react by the end of August!
+- **💡 What I'm currently learning:** I'm learning Typescript and React right now and working on my fundemental web development skills :)
 
 - **🧗 Hobbies:** Outside of work and learning I love playing 🏐 volleyball, 🥒 pickleball, 🥏 disc golf, 🚵‍♂️ riding my mountain bike, and 🧗‍♂️ rock climbing! Hanging out wiht my friends and playing 🎲 dungeons and dragons is my favorite hobby that isn't active.
 
