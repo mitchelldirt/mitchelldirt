@@ -38,7 +38,8 @@
   
   <!-- Liquid Icon --><a href="https://shopify.github.io/liquid/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-mp-images.azureedge.net%2F9dda7041-2870-4a96-bf1e-dd8342e86e7c%2Fzy%2Fd24ce982-a442-48d6-99ca-6cc19b7dba8e%2Fhimmlqlq%2Fliquid-markup.png&f=1&nofb=1" alt="Shopify liquid logo" width="40" height="40"/></a></p>
   
-   <!-- Tailwindcss Icon --><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss logo" width="40" height="40"/></a></p>
+  <p>
+   <!-- Tailwindcss Icon --><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss logo" width="40" height="40"/></a>
    
    <!-- Jest Icon --><a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest Logo" width="40" height="40"/></a></p>
   
