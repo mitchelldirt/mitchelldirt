@@ -42,17 +42,14 @@
    
    <!-- Jest Icon --><a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest Logo" width="40" height="40"/></a>
   
-  <!-- Babel Icon --><a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Jest Logo" width="40" height="40"/></a>
+  <!-- Babel Icon --><a href="https://babeljs.io/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="Jest Logo" width="50" height="50"/></a>
   
   <!-- Parcel Icon --><a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="Jest Logo" width="40" height="40"/></a></p>
   
 <a href="https://app.daily.dev/mitchelldirt">
-         <img align="right" src="https://github.com/mitchelldirt/mitchelldirt/blob/main/devcard.svg" width="400" alt="Mitchell Mudd's Dev Card"
-                                                                                                                             />
-                                                                                                                             </a>
-
-</div>
-
+         <img align="right" src="https://github.com/mitchelldirt/mitchelldirt/blob/main/devcard.svg" width="400" alt="Mitchell Mudd's Dev Card"/></a></div>
+                                                                                                                             
+                                                                    
 ## Connect with me! 
 <!-- Twitter Icon -->
 <p align="left">
