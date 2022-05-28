@@ -40,7 +40,11 @@
   
    <!-- Tailwindcss Icon --><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss logo" width="40" height="40"/></a>
    
-   <!-- Jest Icon --><a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest Logo" width="40" height="40"/></a></p>
+   <!-- Jest Icon --><a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest Logo" width="40" height="40"/></a>
+  
+  <!-- Babel Icon --><a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Jest Logo" width="40" height="40"/></a>
+  
+  <!-- Parcel Icon --><a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="Jest Logo" width="40" height="40"/></a></p>
   
 <a href="https://app.daily.dev/mitchelldirt">
          <img align="right" src="https://github.com/mitchelldirt/mitchelldirt/blob/main/devcard.svg" width="400" alt="Mitchell Mudd's Dev Card"
