@@ -53,7 +53,7 @@
 ## Connect with me! 
 <!-- Twitter Icon -->
 <p align="left">
-<a href="https://twitter.com/MuddMitchell"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40"> </a><a href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40"></a></p>
+<a href="https://twitter.com/MuddMitchell"><img src="https://pluspng.com/img-png/png-twitter-logo-twitter-in-png-2500.png" height="40" width="40"> </a><a href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40"></a></p>
 
 <!--
 **mitchelldirt/mitchelldirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
