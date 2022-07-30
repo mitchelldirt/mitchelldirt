@@ -6,7 +6,7 @@
 
 - **💼 What I'm currently working on:** Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Shopify Development, CPQ Scripting, Jira Administration, and content creation! :) 
 
-- **💡 What I'm currently learning:** I'm 
+- **💡 What I'm currently learning:** I'm currently strengthening all my fundemental Javascript skills while learning about testing before I dive into learning a framework (probably React ⚛️ haha).
 
 - **🧗 Hobbies:** Outside of work and learning I love playing 🏐 volleyball, 🥒 pickleball, 📚 reading, 🐕‍🦺 walking my dog, and 🧗‍♂️ rock climbing!
 
