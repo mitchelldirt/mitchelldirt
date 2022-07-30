@@ -4,11 +4,11 @@
 
 - **🏳️‍🌈 Pronouns:** He/Him
 
-- **💼 What I'm currently working on:** Right now I'm working on securing my first job in tech! Since the company that I currently work at has web devleopment and software development ideally I would move into one of those roles so I can stay where I am. 
+- **💼 What I'm currently working on:** Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Shopify Development, CPQ Scripting, Jira Administration, and content creation! :) 
 
-- **💡 What I'm currently learning:** I'm learning Typescript and React right now and working on my fundemental web development skills :)
+- **💡 What I'm currently learning:** I'm 
 
-- **🧗 Hobbies:** Outside of work and learning I love playing 🏐 volleyball, 🥒 pickleball, 🥏 disc golf, 🚵‍♂️ riding my mountain bike, and 🧗‍♂️ rock climbing! Hanging out wiht my friends and playing 🎲 dungeons and dragons is my favorite hobby that isn't active.
+- **🧗 Hobbies:** Outside of work and learning I love playing 🏐 volleyball, 🥒 pickleball, 📚 reading, 🐕‍🦺 walking my dog, and 🧗‍♂️ rock climbing!
 
 - **📨 How to reach me:** Check out my [portfolio website!](https://www.mitchellmudd.tech/)
 
