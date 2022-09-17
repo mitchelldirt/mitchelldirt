@@ -4,17 +4,19 @@
 
 - **🏳️‍🌈 Pronouns:** He/Him
 
-- **💼 What I'm currently working on:** Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Shopify Development, CPQ Scripting, Jira Administration, and content creation! :) 
+- **💼 What I'm currently doing for work:** Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Shopify Development, CPQ (configure, price, quote) Scripting, content creation, and anything that involves APIs! :) 
 
-- **💡 What I'm currently learning:** I'm currently strengthening all my fundemental Javascript skills while learning about testing before I dive into learning a framework (probably React ⚛️ haha).
+- **💡 What I'm currently learning:** React is the name of the game right now! I started going through the docs and found that I really enjoyed it. I made it through the adding interactivity section of the beta docs and am currently working on a 'Full stack' (barely) project to reinforce what I learned!
 
-- **🧗 Hobbies:** Outside of work and learning I love playing 🏐 volleyball, 🥒 pickleball, 📚 reading, 🐕‍🦺 walking my dog, and 🧗‍♂️ rock climbing!
+- **🧗 Hobbies:** Outside of work and learning I love playing 🏐 volleyball, 🎲 board games, 📚 reading, 🐕‍🦺 walking my dog, 🚲🚊 transit/biking, and 🧗‍♂️ rock climbing!
 
 - **📨 How to reach me:** Check out my [portfolio website!](https://www.mitchellmudd.tech/)
 
-## Tools that I've learned
+## Tools that I have experience with
 <div align="left">
 <p align="left">
+  
+  <!-- React Icon --><a href="https://beta.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS Logo" width="40" height="40"/></a>
   
   <!-- CSS Icon --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/></a>
   
@@ -25,16 +27,12 @@
   <!-- Typescript Icon --><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"> </a>
   
   <!-- Python Icon --><a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python logo" width="40" height="40"/></a>
-  
-  <!-- Webpack Icon --><a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="Webpack logo" width="40" height="40"/></a>
-  
+
   <!-- Git Icon --><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="40" height="40"/></a>
   
   <!-- Jira Icon --><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira logo" width="40" height="40"/></a>
   
   <!-- Vite Icon --><a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Vite logo" width="40" height="40"/></a>
-  
-  <!-- NetSuite Icon --><a href="https://www.netsuite.com/portal/home.shtml" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffindaccountingsoftware.com%2FApp_Resources%2FSite%2Fimages%2Flogos%2F208%3Fw%3D220%26h%3D220&f=1&nofb=1" alt="NetSuite logo" width="40" height="40"/></a>
   
   <!-- Liquid Icon --><a href="https://shopify.github.io/liquid/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-mp-images.azureedge.net%2F9dda7041-2870-4a96-bf1e-dd8342e86e7c%2Fzy%2Fd24ce982-a442-48d6-99ca-6cc19b7dba8e%2Fhimmlqlq%2Fliquid-markup.png&f=1&nofb=1" alt="Shopify liquid logo" width="40" height="40"/></a>
   
