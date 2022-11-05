@@ -38,9 +38,9 @@
 
   <!-- Vite Icon --><a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Vite logo" width="40" height="40"/></a>
   
-<!-- Babel Icon --><a href="https://babeljs.io/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="Jest Logo" width="50" height="50"/></a>
-  
-  <!-- Parcel Icon --><a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="Jest Logo" width="40" height="40"/></a></p>
+  <!-- Parcel Icon --><a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="Parcel Logo" width="40" height="40"/></a></p>
+ 
+  <!-- Postgres Icon --><a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL Logo" width="40" height="40"/></a></p>
   
 
   
