@@ -69,7 +69,7 @@
 </a>
 
 <!-- Mastadon Icon --> 
-<a href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/">
+<a rel="me" href="https://fosstodon.org/@mitchelldirt">
   <img src="https://logodix.com/logo/2104015.png" height="40" width="40">
 </a>
 </p>
