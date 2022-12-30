@@ -12,37 +12,53 @@
 
 - **📨 How to reach me:** Check out my [portfolio website!](https://www.mitchellmudd.tech/)
 
+## Check out my tech stack below!
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mitchelldirt/my-stack)
+<!--
 ## Tools that I have experience with
+Order of Images:
+React
+Javascript
+Typescript
+HTML
+CSS
+Tailwind
+Liquid
+Jest
+Git
+Jira
+Vite
+Parcel
+Postgres
 <div align="left">
 <p align="left">
   
-  <!-- React Icon --><a href="https://beta.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS Logo" width="40" height="40"/></a>
+<a href="https://beta.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS Logo" width="40" height="40"/></a>
   
-  <!-- JS Icon --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a>
     
-  <!-- Typescript Icon --><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"> </a>
   
- <!-- HTML Icon --><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a>
  
- <!-- CSS Icon --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/></a>
   
-   <!-- Tailwindcss Icon --><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss logo" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss logo" width="40" height="40"/></a>
     
-  <!-- Liquid Icon --><a href="https://shopify.github.io/liquid/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-mp-images.azureedge.net%2F9dda7041-2870-4a96-bf1e-dd8342e86e7c%2Fzy%2Fd24ce982-a442-48d6-99ca-6cc19b7dba8e%2Fhimmlqlq%2Fliquid-markup.png&f=1&nofb=1" alt="Shopify liquid logo" width="40" height="40"/></a>
+<a href="https://shopify.github.io/liquid/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-mp-images.azureedge.net%2F9dda7041-2870-4a96-bf1e-dd8342e86e7c%2Fzy%2Fd24ce982-a442-48d6-99ca-6cc19b7dba8e%2Fhimmlqlq%2Fliquid-markup.png&f=1&nofb=1" alt="Shopify liquid logo" width="40" height="40"/></a>
   
-   <!-- Jest Icon --><a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest Logo" width="40" height="40"/></a>
+<a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest Logo" width="40" height="40"/></a>
   
-  <!-- Git Icon --><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="40" height="40"/></a>
   
-  <!-- Jira Icon --><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira logo" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira logo" width="40" height="40"/></a>
 
-  <!-- Vite Icon --><a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Vite logo" width="40" height="40"/></a>
+<a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Vite logo" width="40" height="40"/></a>
   
-  <!-- Parcel Icon --><a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="Parcel Logo" width="40" height="40"/></a></p>
+a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="Parcel Logo" width="40" height="40"/></a></p>
  
-  <!-- Postgres Icon --><a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL Logo" width="40" height="40"/></a></p>
-  
-
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL Logo" width="40" height="40"/></a></p>
+-->
   
 
   
