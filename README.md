@@ -6,11 +6,11 @@
 
 - **💼 What I'm currently doing for work:** Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Shopify Development, CPQ (configure, price, quote) Scripting, content creation, and anything that involves APIs! :) 
 
-- **💡 What I'm currently learning:** React is the name of the game right now! I started going through the docs and found that I really enjoyed it. I made it through the adding interactivity section of the beta docs and am currently working on a 'Full stack' (barely) project to reinforce what I learned!
+- **💡 What I'm currently learning:** Remix and full-stack development is my main focus right now. I've got a stack that's been working at me and I'm trying to get really good at that. I've also been playing with .Net MAUI and C# a bit :)
 
-- **🧗 Hobbies:** Outside of work and learning I love playing 🏐 volleyball, 🎲 board games, 📚 reading, 🐕‍🦺 walking my dog, 🚲🚊 transit/biking, and 🧗‍♂️ rock climbing!
+- **🧗 Hobbies:** Outside of work and learning I love 🧗‍♂️ rock climbing, 🚲🚊 transit/biking, 🐕‍🦺 walking my dog, 🎲 board games, and 📚 reading 
 
-- **📨 How to reach me:** Check out my [portfolio website!](https://www.mitchellmudd.tech/)
+- **📨 How to reach me:** Check out my [portfolio website!](https://www.mitchellmudd.dev/)
 
 ## Check out my tech stack below!
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mitchelldirt/my-stack)
