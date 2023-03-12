@@ -8,7 +8,7 @@
 
 - **💡 What I'm currently learning:** Remix and full-stack development is my main focus right now. I've got a stack that's been working at me and I'm trying to get really good at that. I've also been playing with .Net MAUI and C# a bit :)
 
-- **🧗 Hobbies:** Outside of work and learning I love 🧗‍♂️ rock climbing, 🚲🚊 transit/biking, 🐕‍🦺 walking my dog, 🎲 board games, and 📚 reading 
+- **🧗 Hobbies:** Outside of work and learning I love rock climbing, 🚲🚊 transit/biking, 🐕‍🦺 walking my dog, 🎲 board games, and 📚 reading 
 
 - **📨 How to reach me:** Check out my [portfolio website!](https://www.mitchellmudd.dev/)
 
