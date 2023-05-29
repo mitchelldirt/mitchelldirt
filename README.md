@@ -1,16 +1,32 @@
-### Hello stranger, my name is Mitchell Mudd - Welcome to my README.md! 👋 
+### Welcome to my `README` :)
 
-## See what I'm all about below!
+**🏳️‍🌈 Pronouns:** 
 
-- **🏳️‍🌈 Pronouns:** He/Him
+He/Him
 
-- **💼 What I'm currently doing for work:** Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Azure application development, integrating internal tools using Typescript, and anything that involves APIs! :) 
+---
 
-- **💡 What I'm currently learning:** Typescript, React, and .Net. I already do Typescript and React development, but there's still so much to learn and optimize. I'm also learning .Net development since I use Azure at work and the language is really growing on me.
+**💼 What I'm currently doing for work:** 
 
-- **🧗 Hobbies:** Outside of work and learning I love rock climbing, 🚲 biking, 🐕‍🦺 walking my dog, 🚊 public transit, 🎲 board games, and 📚 reading 
+Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Azure application development, integrating internal tools using Typescript, and anything that involves APIs! :) 
 
-- **📨 How to reach me:** Check out my [portfolio website!](https://www.mitchellmudd.dev/)
+---
+
+**💡 What I'm currently learning:** 
+
+Typescript, React, and .Net. I already do Typescript and React development, but there's still so much to learn and optimize. I'm also learning .Net development since I use Azure at work and the language is really growing on me.
+
+---
+
+**🧗 Hobbies:** 
+
+Outside of work and learning I love rock climbing, 🚲 biking, 🐕‍🦺 walking my dog, 🚊 public transit, 🎲 board games, and 📚 reading 
+
+---
+
+**📨 How to reach me:** 
+
+Check out my [portfolio website!](https://www.mitchellmudd.dev/)
 <!--
 ## Tools that I have experience with
 Order of Images:
@@ -72,19 +88,16 @@ a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo
 ## Connect with me! 
 <!-- Twitter Icon -->
 <p align="left">
-<a href="https://twitter.com/mitchelldirt">
-  <img src="https://pluspng.com/img-png/png-twitter-logo-twitter-in-png-2500.png" height="40" width="40"> 
-</a>
-
-<!-- LinkedIn Icon -->
+  
+  <!-- LinkedIn Icon -->
 <a href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40">
 </a>
-
-<!-- Mastadon Icon --> 
-<a rel="me" href="https://fosstodon.org/@mitchelldirt">
-  <img src="https://logodix.com/logo/2104015.png" height="40" width="40">
+  
+<a href="https://twitter.com/mitchelldirt">
+  <img src="https://pluspng.com/img-png/png-twitter-logo-twitter-in-png-2500.png" height="40" width="40"> 
 </a>
+  
 </p>
 
 <!--
