@@ -4,16 +4,13 @@
 
 - **🏳️‍🌈 Pronouns:** He/Him
 
-- **💼 What I'm currently doing for work:** Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Shopify Development, CPQ (configure, price, quote) Scripting, content creation, and anything that involves APIs! :) 
+- **💼 What I'm currently doing for work:** Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Azure application development, integrating internal tools using Typescript, and anything that involves APIs! :) 
 
-- **💡 What I'm currently learning:** Remix and full-stack development is my main focus right now. I've got a stack that's been working at me and I'm trying to get really good at that. I've also been playing with .Net MAUI and C# a bit :)
+- **💡 What I'm currently learning:** Typescript, React, and .Net. I already do Typescript and React development, but there's still so much to learn and optimize. I'm also learning .Net development since I use Azure at work and the language is really growing on me.
 
-- **🧗 Hobbies:** Outside of work and learning I love rock climbing, 🚲🚊 transit/biking, 🐕‍🦺 walking my dog, 🎲 board games, and 📚 reading 
+- **🧗 Hobbies:** Outside of work and learning I love rock climbing, 🚲 biking, 🐕‍🦺 walking my dog, 🚊 public transit, 🎲 board games, and 📚 reading 
 
 - **📨 How to reach me:** Check out my [portfolio website!](https://www.mitchellmudd.dev/)
-
-## Check out my tech stack below!
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mitchelldirt/my-stack)
 <!--
 ## Tools that I have experience with
 Order of Images:
