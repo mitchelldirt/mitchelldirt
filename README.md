@@ -80,9 +80,11 @@ a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo
   
   
   
-  
+ <!-- 
 <a href="https://app.daily.dev/mitchelldirt">
          <img align="right" src="https://github.com/mitchelldirt/mitchelldirt/blob/main/devcard.svg" width="400" alt="Mitchell Mudd's Dev Card"/></a></div>
+
+         -->
                                                                                                                              
                                                                     
 ## Connect with me! 
