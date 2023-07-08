@@ -8,7 +8,7 @@ He/Him
 
 **💼 What I'm currently doing for work:** 
 
-Right now I'm working at Tommy Car Wash Systems as an IT Engineer. My job consists of Azure application development, integrating internal tools using Typescript, and anything that involves APIs! :) 
+Right now I'm working at Tommy Car Wash Systems as an IT Developer. My job consists of Azure application development, integrating internal tools using Typescript, and anything that involves APIs! :) 
 
 ---
 
