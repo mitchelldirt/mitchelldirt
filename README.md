@@ -14,7 +14,7 @@ Right now I'm working at Tommy Car Wash Systems as an IT Developer. My job consi
 
 **💡 What I'm currently learning:** 
 
-Typescript, React, and .Net. I already do Typescript and React development, but there's still so much to learn and optimize. I'm also learning .Net development since I use Azure at work and the language is really growing on me.
+Typescript, React, and Java. I already do Typescript and React development, but there's still so much to learn and optimize. I'm also learning Java development because I've found a lot of my favorite companies and transit providers utilize Java
 
 ---
 
