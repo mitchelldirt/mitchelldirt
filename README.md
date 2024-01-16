@@ -92,12 +92,12 @@ a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo
 <p align="left">
   
   <!-- LinkedIn Icon -->
-<a href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/">
+<a target="_blank" href="https://www.linkedin.com/in/mitchell-mudd-96baa7204/" text-decoration="none">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40">
 </a>
-  
-<a href="https://twitter.com/mitchelldirt">
-  <img src="https://pluspng.com/img-png/png-twitter-logo-twitter-in-png-2500.png" height="40" width="40"> 
+
+<a target="_blank" href="https://bsky.app/profile/mitchelldirt.bsky.social">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bluesky_butterfly-logo.svg" height="50" width="50">
 </a>
   
 </p>
