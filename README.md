@@ -19,9 +19,7 @@ Outside of work and learning I love rock climbing, 🚲 biking, 🐕‍🦺 walk
 
 ---
 
-**📨 How to reach me:** 
-
-Check out my [portfolio website!](https://www.mitchellmudd.dev/)
+## Check out my [portfolio website!](https://www.mitchellmudd.dev/)
 <!--
 ## Tools that I have experience with
 Order of Images:
