@@ -1,10 +1,5 @@
 ### Welcome to my `README` :)
 
-**🏳️‍🌈 Pronouns:** 
-
-He/Him
-
----
 
 **💼 What I'm currently doing for work:** 
 
@@ -12,15 +7,15 @@ Right now I'm working at Tommy Car Wash Systems as an IT Developer. My job consi
 
 ---
 
-**💡 What I'm currently learning:** 
+**💡 What I'm currently skilling up in:** 
 
-.Net, React, and Typescript. I already do Typescript and React development, but there's still so much to learn and optimize. I'm also learning .Net development because I've found a lot of my favorite companies and transit providers utilize .Net and I genuinely enjoy how powerful the framework/language is.
+React, Typescript, and Go.
 
 ---
 
 **🧗 Hobbies:** 
 
-Outside of work and learning I love rock climbing, 🚲 biking, 🐕‍🦺 walking my dog, 🚊 public transit, 🎲 board games, and 📚 reading 
+Outside of work and learning I love rock climbing, 🚲 biking, 🐕‍🦺 walking my dog, 🎲 board games, and 📚 reading 
 
 ---
 
